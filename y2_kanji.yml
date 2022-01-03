@@ -1,0 +1,122 @@
+---
+type: kanji
+name: Y2 冬季漢字力テスト
+name_ruby: にねん とうきかんじりょくてすと
+author: せくしょん
+description: 第三回漢字力テスト（令和元年度第二学年）
+tags:
+  - 2年
+  - 国語
+  - 漢字
+keywords:
+  - 2年
+  - にねん
+  - こくご
+  - かんじ
+options:
+  allow_romaji: true
+  shuffle: true
+  shuffle_modable: true
+  ignore_case: true
+difficulty: 3
+publish: true
+created_at: 2020-02-22
+items:
+  - question: 伐採
+    answers:
+      - ばっさい
+  - question: 起伏
+    answers:
+      - きふく
+  - question: 伴う
+    answers:
+      - ともなう
+      - ともな
+  - question: 擬視
+    answers:
+      - ぎょうし
+  - question: 委嘱
+    answers:
+      - いしょく
+  - question: 花婿
+    answers:
+      - はなむこ
+  - question: 花嫁
+    answers:
+      - はなよめ
+  - question: 嫁ぐ
+    answers:
+      - とつぐ
+      - とつ
+  - question: 岐路
+    answers:
+      - きろ
+  - question: 巧妙
+    answers:
+      - こうみょう
+  - question: 愛憎
+    answers:
+      - あいぞう
+  - question: 御陵
+    answers:
+      - ごりょう
+  - question: 制圧
+    answers:
+      - せいあつ
+  - question: 処置
+    answers:
+      - しょち
+  - question: 携える
+    answers:
+      - たずさえる
+      - たずさ
+  - question: 搾る
+    answers:
+      - しぼる
+      - しぼ
+  - question: 擁護
+    answers:
+      - ようご
+  - question: 分泌
+    answers:
+      - ぶんぴつ
+  - question: 漏電
+    answer: ろうでん
+  - question: 濫用
+    answers:
+      - らんよう
+    explanation: |
+      濫用は、乱用と同じ意味で、あることやものなどを濫りに用いることを指す。
+
+  - question: 獄中
+    answers:
+      - ごくちゅう
+  - question: 肝要
+    answers:
+      - かんよう
+  - question: 恨み
+    answers:
+      - うらみ
+      - うら
+  - question: 陶器
+    answers:
+      - とうき
+  - question: 胎児
+    answers:
+      - たいじ
+  - question: 伸縮
+    answers:
+      - しんしゅく
+  - question: 円滑
+    answers:
+      - えんかつ
+  - question: 陳列
+    answers:
+      - ちんれつ
+  - question: 妨げる
+    answers:
+      - さまたげる
+      - さまた
+  - question: 埋蔵
+    answers:
+      - まいぞう

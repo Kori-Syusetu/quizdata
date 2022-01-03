@@ -1,0 +1,97 @@
+---
+type: spelling
+name: 中学総合 化学式
+name_ruby: かがくしき
+author: せくしょん
+tags:
+  - 3年
+  - 理科
+  - 元素
+keywords:
+  - 3年
+  - さんねん
+  - りか
+  - げんそ
+description: |
+  中学1年生〜3年生で習う化学式（適当）
+options:
+  allow_romaji: true
+  ignore_case: true
+difficulty: 8
+publish: true
+created_at: 2021-02-12
+items:
+  - question: 水*
+    answers:
+    - H₂O
+    - H2O
+  - question: 酸化銅*
+    answer: CuO
+  - question: 塩化ナトリウム*
+    answer: NaCl
+  - question: アンモニア*
+    answers:
+    - NH₃
+    - NH3
+  - question: 酸化マグネシウム*
+    answer: MgO
+  - question: 塩化水素*
+    answer: HCl
+  - question: エタノール
+    answers:
+    - C₂H₆O
+    - C2H6O
+  - question: 酸化銀*
+    answers:
+    - Ag₂O
+    - Ag2O
+  - question: 塩化銀
+    answers:
+    - AgCl
+  - question: 二酸化炭素*
+    answers:
+    - CO₂
+    - CO2
+  - question: 酸化カルシウム
+    answers:
+    - CaO
+  - question: 塩化銅*
+    answers:
+    - AgCl
+  - question: 酢酸
+    answers:
+    - CH₃COOH
+    - CH3COOH
+  - question: 酢酸
+    answers:
+    - Al₂O₃
+    - Al2O3
+  - question: 水酸化ナトリウム*
+    answers:
+    - NaOH
+  - question: 硫化鉄*
+    answers:
+    - FeS
+  - question: 酸水素ナトリウム*
+    answers:
+    - NaHCO₃
+    - NaHCO3
+  - question: 水酸化カリウム
+    answers:
+    - KOH
+  - question: 硫化水素*
+    answers:
+    - H₂S
+    - H2S
+  - question: 炭酸ナトリウム*
+    answers:
+    - Na₂CO₃
+    - Na2CO3
+  - question: 水酸化カルシウム
+    answers:
+    - Ca(OH)₂
+    - Ca(OH)2
+  - question: 硫酸*
+    answers:
+    - H₂SO₄
+    - H2SO4

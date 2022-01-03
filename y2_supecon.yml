@@ -1,0 +1,99 @@
+---
+type: spelling
+name: Y2 スペリングコンテスト
+author: せくしょん
+description: 2019/12/13 スペリングコンテスト
+keywords:
+  - 2年
+  - にねん
+  - えいご
+  - すぺこん
+  - えいたんご
+tags:
+  - 2年
+  - 英語
+  - 英単語
+options:
+  allow_romaji: false
+  shuffle: true
+  shuffle_modable: true
+  ignore_case: true
+difficulty: 3
+publish: true
+created_at: 2020-12-12
+items:
+  - question: buyの過去形は？
+    answers:
+      - bought
+  - question: borrowの過去形は？
+    answers:
+      - borrowed
+  - question: findの過去形は？
+    answers:
+      - found
+  - question: singの過去形は？
+    answers:
+      - sang
+  - question: forgetの過去形は？
+    answers:
+      - forgot
+  - question: sitの過去形は？
+    answers:
+      - sat
+  - question: feelの過去形は？
+    answers:
+      - felt
+  - question: mistakeの過去形は？
+    answers:
+      - mistook
+  - question: takeの過去形は？
+    answers:
+      - took
+  - question: buildの過去形は？
+    answers:
+      - built
+  - question: leaveの過去形は？
+    answers:
+      - left
+  - question: tellの過去形は？
+    answers:
+      - told
+  - question: catchの過去形は？
+    answers:
+      - caught
+  - question: giveの過去形は？
+    answers:
+      - gave
+  - question: eatの過去形は？
+    answers:
+      - ate
+  - question: spendの過去形は？
+    answers:
+      - spent
+  - question: sayの過去形は？
+    answers:
+      - said
+  - question: goの過去形は？
+    answers:
+      - went
+  - question: hearの過去形は？
+    answers:
+      - heard
+  - question: am,isの過去形は？
+    answers:
+      - was
+  - question: childの複数形は？
+    answers:
+      - children
+  - question: memoryの複数形は？
+    answers:
+      - memories
+  - question: countryの複数形は？
+    answers:
+      - countries
+  - question: cityの複数形は？
+    answers:
+      - cities
+  - question: manの複数形は？
+    answers:
+      - men

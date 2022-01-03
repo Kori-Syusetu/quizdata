@@ -1,0 +1,65 @@
+---
+type: spelling
+name: Y2 元素記号 H2〜Ne
+name_ruby: げんそきごう
+author: せくしょん
+options:
+  allow_romaji: true
+  shuffle: false
+  shuffle_modable: true
+  ignore_case: true
+tags:
+  - 2年
+  - 理科
+  - 元素
+keywords:
+  - 2年
+  - にねん
+  - りか
+  - げんそ
+description: |
+  すいへーりーべーぼくのふね
+publish: true
+difficulty: 2
+created_at: 2021-02-12
+items:
+  - question: H2
+    answers:
+      - 水素
+      - すいそ
+  - question: He
+    answers:
+      - ヘリウム
+      - へりうむ
+  - question: Li
+    answers:
+      - リチウム
+      - りちうむ
+  - question: Be
+    answers:
+      - ベリリウム
+      - べりりうむ
+  - question: B
+    answers:
+      - ホウ素
+      - ほうそ
+  - question: C
+    answers:
+      - 炭素
+      - たんそ
+  - question: "N"
+    answers:
+      - 窒素
+      - ちっそ
+  - question: O
+    answers:
+      - 酸素
+      - さんそ
+  - question: F
+    answers:
+      - フッ素
+      - ふっそ
+  - question: Ne
+    answers:
+      - ネオン
+      - ねおん

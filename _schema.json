@@ -1,0 +1,125 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "title": "Quiz Data Schema",
+
+  "type": "object",
+  "required": ["type", "name"],
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": ["kanji", "spelling"],
+      "title": "クイズの種類"
+    },
+    "name": {
+      "type": "string",
+      "title": "クイズ名"
+    },
+    "name_ruby": {
+      "type": "string",
+      "title": "検索用クイズ名（平仮名）"
+    },
+    "author": {
+      "type": "string",
+      "title": "クイズの作者"
+    },
+    "description": {
+      "type": "string",
+      "title": "クイズの概要"
+    },
+    "keywords": {
+      "type": "array",
+      "title": "検索用キーワード",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "title": "タグ",
+      "items": {
+        "type": "string"
+      }
+    },
+    "difficulty": {
+      "type": "integer",
+      "title": "難易度 (1-8)",
+      "minimum": 1,
+      "maximum": 8,
+      "default": 3
+    },
+    "publish": {
+      "type": "boolean",
+      "title": "クイズを公開するか否か"
+    },
+    "created_at": {
+      "type": "string",
+      "title": "クイズの作成日"
+    },
+    "updated_at": {
+      "type": "string",
+      "title": "クイズの更新日"
+    },
+    "options": {
+      "type": "object",
+      "title": "オプション",
+      "properties": {
+        "allow_romaji": {
+          "type": ["boolean"],
+          "title": "ローマ字を許可する（解答が平仮名の場合に適用されます）",
+          "default": false
+        },
+        "shuffle": {
+          "type": ["boolean"],
+          "title": "出題順をシャッフルする",
+          "default": false
+        },
+        "shuffle_modable": {
+          "type": ["boolean"],
+          "title": "出題順をシャッフルするかどうかユーザーが設定できるようにする",
+          "default": true
+        },
+        "ignore_case": {
+          "type": ["boolean"],
+          "title": "大文字小文字を区別しない",
+          "default": true
+        }
+      },
+      "additionalProperties": false
+    },
+    "items": {
+      "type": "array",
+      "title": "問題リスト",
+      "items": {
+        "type": "object",
+        "properties": {
+          "question": {
+            "type": "string",
+            "title": "問"
+          },
+          "answer": {
+            "type": "string",
+            "title": "解答"
+          },
+          "answers": {
+            "type": "array",
+            "title": "解答リスト",
+            "items": {
+              "type": "string",
+              "title": "解答"
+            }
+          },
+          "explanation": {
+            "type": "string",
+            "title": "解説文"
+          }
+        },
+        "oneOf": [
+          { "required": ["question", "answers"] },
+          { "required": ["question", "answer"] }
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

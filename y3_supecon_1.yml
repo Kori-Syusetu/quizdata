@@ -1,0 +1,73 @@
+---
+type: spelling
+name: Y3 スペリングコンテスト 日本語を英語で (1/2)
+name_ruby: さんねん すぺりんぐこんてすと にほんごをえいごで
+keywords:
+  - 3年
+  - さんねん
+  - えいご
+  - すぺこん
+  - えいたんご
+tags:
+  - 3年
+  - 英語
+  - 英単語
+author: せくしょん
+description: 2020/12/11 スペリングコンテスト
+options:
+  allow_romaji: false
+  shuffle: true
+  shuffle_modable: true
+  ignore_case: true
+difficulty: 3
+publish: true
+created_at: 2020-12-09
+items:
+  - question: 「平和」は英語で？
+    answers:
+      - peace
+  - question: 「十分な」は英語で？
+    answers:
+      - enough
+  - question: 「～に反対して」は英語で？
+    answers:
+      - against
+  - question: 「夕方」は英語で？
+    answers:
+      - evening
+  - question: 「1か月」は英語で？
+    answers:
+      - month
+  - question: 「若い」は英語で？
+    answers:
+      - young
+  - question: 「～でさえ」は英語で？
+    answers:
+      - even
+  - question: 「地球」は英語で？
+    answers:
+      - earth
+  - question: 「～を忘れる」は英語で？
+    answers:
+      - forget
+  - question: 「役に立つ」は英語で？
+    answers:
+      - useful
+  - question: 「(時間)を過ごす」は英語で？
+    answers:
+      - spend
+  - question: 「子どもたち」は英語で？
+    answers:
+      - children
+  - question: 「2月」は英語で？
+    answers:
+      - February
+      - february
+  - question: 「7月」は英語で？
+    answers:
+      - July
+      - july
+  - question: 「8月」は英語で？
+    answers:
+      - August
+      - august
